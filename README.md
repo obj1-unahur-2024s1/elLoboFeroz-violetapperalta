@@ -18,7 +18,7 @@ Feroz, el lobo, se siente desnutrido y famélico y quiere un sistema para simula
 
 2. Cuando feroz va corriendo hasta un lugar, su peso disminuye 1 unidad, independientemente del lugar que sea. 
 
-3. Por otra parte, está Caperucita, que pesa 60 y lleva una canasta. En determinado momento, en la canasta hay 6 manzanas (todas del mismo peso: 0.2) pero podría ser que dicha cantidad varíe. Su abuelita pesa siempre 50. 
+3. Por otra parte, está Caperucita, que pesa 60 y lleva una canasta. En determinado momento, hay 6 manzanas (todas del mismo peso: 0.2) pero podría ser que dicha cantidad varíe. Su abuelita pesa siempre 50. 
 
 4. Representar la siguiente versión de la historia del lobo Feroz:
 El lobo va corriendo hasta el bosque. Allí se encuentra con Caperucita, conversan, pero no pasa nada más. Luego, el lobo corre a la casa de la abuelita y luego de comersela, se disfraza de ella.  Mientras tanto, Caperucita cruza el bosque y se le cae una manzana de su canasta. Cuando feroz ve llega a Caperucita a la casa, molesto por las preguntas incisivas sobre su aspecto físico, abre grande su boca y se come a Caperucita con canasta llena y todo. Finalmente, llega el cazador… ¿El lobo también se lo come de un bocado? ¿El cazador provoca una crisis en el lobo? ¿Qué otra cosa puede suceder? (Modelar al cazador de manera creativa, no trivial, y consistente con lo realizado anteriormente)
